@@ -1,0 +1,8 @@
+### SERVER WELCOMING
+GET http://localhost:4001/
+
+### GET FILES
+GET http://localhost:4001/files
+
+### GET STATIC FILES
+GET http://localhost:4001/storage/test.txt
